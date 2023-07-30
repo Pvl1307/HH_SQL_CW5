@@ -12,7 +12,7 @@
 
 Создайте файл database.ini в папке src и заполните информацию в следующем формате:
 
-[postgresql]<br />host=localhost<br />user=your_username<br />password=your_password 
+`[postgresql]<br />host=localhost<br />user=your_username<br />password=your_password `
 
 
 ## Работа кода
