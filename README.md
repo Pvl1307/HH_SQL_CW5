@@ -12,10 +12,10 @@
 
 Создайте файл database.ini в папке src и заполните информацию в следующем формате:
 
- [postgresql]
- host=localhost
- user=your_username
- password=your_password
+[postgresql]
+host=localhost
+user=your_username
+password=your_password
 
 ## Работа кода
 
