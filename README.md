@@ -17,6 +17,7 @@
 host=localhost
 user=your_username
 password=your_password
+port=5432
 ```
 
 ## Работа кода
